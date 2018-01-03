@@ -22,3 +22,7 @@ For the wireless doorbell application we uploaded a 'button input' program, on o
 
 Please find attached the Movie/ Video we have made for the entire working of the Wireless Doorbell Application. 
 Please find attached screenshots for reference.
+
+Note
+----
+This repository involves a detailed document of the different protocols considered. The 3 layers of each protocol has been discussed. The protocols involved are ZigBee, 6LloWPAN, wirelessHART, BLE, WiFi and loraWAN. This was a team project.
